@@ -2690,3 +2690,1568 @@ Found page "Index" [index]
 
 [0m
 * Reloaded "pages", "snippets" at 2015-05-29 15:13:55 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 15:16:07 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:20:11 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:21:49 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:02 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:02 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:02 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:02 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:02 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:03 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:55 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:22:56 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:23:00 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:23:00 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:23:00 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:24:12 -0300
+{"locales"=>["The previous default locale can not be removed right away."], "domains"=>[]}
+{"locales"=>["The previous default locale can not be removed right away."], "domains"=>[]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:32:53 -0300
+{"locales"=>["The previous default locale can not be removed right away."], "domains"=>[]}
+{"locales"=>["The previous default locale can not be removed right away."], "domains"=>[]}
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:45 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:45 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:45 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:46 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:47 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:47 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:47 -0300
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:35:47 -0300
+Use the force option in order to force your locale settings.
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-05-29 15:36:41 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 15:37:05 -0300
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+{"source"=>["You are not allowed to upload \"\" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, woff2, otf, ico, htc, pdf, map, mp3, min", "não pode ficar em branco"]}
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:00:52 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:01:01 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:01:28 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:02:08 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:20:06 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:20:06 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:40:40 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:41:32 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:41:42 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:42:29 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:42:35 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:42:37 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:43:03 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:43:46 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:43:52 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:43:59 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:46:00 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:46:01 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:46:03 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:46:05 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:46:36 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:47:01 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:47:03 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:54:40 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:55:07 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:39 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:55:44 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:47 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:48 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:49 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:49 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:50 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:50 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:51 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:51 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:55:52 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:56:26 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:56:34 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:58:09 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:58:14 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:58:30 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:58:31 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 16:58:32 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 16:58:40 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 16:59:03 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 16:59:06 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:00:00 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:00:26 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:00:33 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:00:59 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:01 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:02 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:02 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:03 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:03 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:04 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:01:06 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:08 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:09 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:09 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:10 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:10 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:01:10 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown tag 'render' - ./app/views/pages/index.liquid:89:in `Index'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:04:40 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:04:41 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:04:45 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:04:48 -0300[0m
+Detecting locale PT-BR
+Found page "Index" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:1:in `Index'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:05:28 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:05:30 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:05:31 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:05:31 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:05:33 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:05:49 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:05:50 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:10:42 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:10:54 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "about" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:11:14 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:11:17 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:12:34 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:12:42 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:12:48 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:12:54 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:13:23 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:13:45 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:14:19 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:14:41 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:14:45 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+[0;31;49m[ERROR] Unknown snippet "portifolio" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:14:51 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:14:53 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:15:06 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:15:35 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:15:39 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:15:40 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:15:51 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:16:25 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:16:26 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:16:27 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:17:18 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:17:35 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:17:38 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:17:40 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+[0;31;49m[ERROR] Unknown snippet "footer-js" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:17:41 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+[0;31;49m[ERROR] Unknown snippet "footer-js" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:17:45 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:17:46 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:19:06 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:19:17 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:19:19 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:19:19 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:19:20 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:19:24 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:19:25 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "body_headers" - ./app/views/pages/index.liquid:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:19:28 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:20:03 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:20:19 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:20:26 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:20:28 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:20:38 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:21:26 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:26:31 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:26:58 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:27:15 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:20 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:21 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:21 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:27:56 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:58 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:59 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:27:59 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:28:00 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:28:37 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:28:44 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:28:46 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:28:47 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:29:13 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:29:15 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:29:42 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:29:45 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/%7B%20'application.css'%20%7C%20stylesheet_url%20%7D%7D" at 2015-05-29 17:29:45 -0300[0m
+Detecting locale PT-BR
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+[0;32;49mCompleted 404 Not Found in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:29:46 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/%7B%20'application.css'%20%7C%20stylesheet_url%20%7D%7D" at 2015-05-29 17:29:46 -0300[0m
+Detecting locale PT-BR
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:30:06 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:30:07 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:30:28 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:30:29 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:30:30 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:30:31 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:31:26 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:31:27 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:31:57 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:31:58 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:32:36 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:32:50 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:33:05 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:33:20 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:33:21 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:33:23 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:38:01 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:38:18 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:38:27 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:38:34 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:38:44 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:39:53 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:40:00 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:40:02 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:40:03 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:40:38 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:40:40 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:41:19 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:41:21 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:42:11 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:42:19 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:43:35 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:54:17 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:54:18 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:54:25 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:54:26 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:54:28 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:54:41 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 17:54:42 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:54:44 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:41 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:42 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:43 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:45 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:46 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 17:55:47 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 17:57:57 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 17:57:58 -0300
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:40:37 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:41:00 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:03 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:06 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:07 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:08 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:09 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:15 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:16 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:17 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:18 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:19 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:31 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:42:33 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:40 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 19:42:56 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:43:00 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:43:02 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:43:04 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:43:48 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:43:49 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:44:07 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:44:37 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:44:39 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:44:40 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 19:44:41 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:44:52 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:44:54 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:44:57 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 19:45:13 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 19:45:16 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:45:17 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 19:45:32 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 19:45:34 -0300[0m
+Detecting locale PT-BR
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet body_header
+  Rendered snippet about
+  Rendered snippet services
+  Rendered snippet portfolio
+  Rendered snippet technologies
+  Rendered snippet contact
+  Rendered snippet footer_js
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
