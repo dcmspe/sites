@@ -2,14 +2,14 @@
    host: localhost:8080
    email: dcms.pe@gmail.com
    password: Triptak@1987
-   api_key: ac0e894a0e80a111e7ef2da7c59730ac4b8320de
+   # api_key: <your api key here>
  staging:
    host: localhost:8080
    email: dcms.pe@gmail.com	
    password: Triptak@1987
-   api_key: ac0e894a0e80a111e7ef2da7c59730ac4b8320de
+#   # api_key: <your api key here>
  production:
    host: localhost:8080
    email: dcms.pe@gmail.com
    password: Triptak@1987
-   api_key: ac0e894a0e80a111e7ef2da7c59730ac4b8320de
+#   # api_key: <your api key here>

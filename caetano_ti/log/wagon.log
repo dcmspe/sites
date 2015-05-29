@@ -2582,3 +2582,111 @@ Found page "Index" [index]
 [0;32;49mCompleted 200 OK in 0.8ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 03:33:51 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+unable to get an API token: getaddrinfo: Name or service not known
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 12:49:28 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+{"source"=>["translation missing: pt-BR.errors.messages.extension_white_list_error", "não pode ficar em branco"]}
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+{"locales"=>["The previous default locale can not be removed right away."]}
+{"locales"=>["The previous default locale can not be removed right away."]}
+{"error"=>"undefined method `map' for nil:NilClass"}
+{"error"=>"undefined method `map' for nil:NilClass"}
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-05-29 15:05:56 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 15:06:49 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 15:07:14 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 15:07:18 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 15:08:00 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 15:08:16 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 15:08:16 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 15:09:23 -0300
+* Reloaded "pages", "snippets" at 2015-05-29 15:10:08 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 15:10:09 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 15:12:48 -0300
+[0;97;49mStarted GET "/" at 2015-05-29 15:12:55 -0300[0m
+Detecting locale EN
+Found page "Index" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-05-29 15:13:55 -0300
